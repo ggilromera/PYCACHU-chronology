@@ -1,5 +1,5 @@
 # PYCACHU-chronology
-This repository conaitns the code and data to perform an age-depth bayesian model for the core TRAM21-1B presented in Julián-Posadas et al. (link).
+This repository contains the code and data to perform an age-depth bayesian model for the core TRAM21-1B presented in Julián-Posadas et al. (link).
 
 ##Description
 
